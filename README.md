@@ -1,3 +1,6 @@
+
+![PACMAN (1)](https://user-images.githubusercontent.com/57444962/144720891-ccea297d-b29c-4c15-adcf-a5041d03b61a.gif)
+
 # Pacman-Game
 ## Retro Arcade Pacman Game using Java
 
